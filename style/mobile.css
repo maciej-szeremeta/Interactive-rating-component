@@ -1,0 +1,41 @@
+@media (max-width: 375px) {
+  .rating {
+    width: 320px;
+    padding: 1.5rem 1.5rem;
+  }
+  .rating__logo {
+    width: 1.4rem;
+    height: 1.4rem;
+    padding: 1.4rem;
+  }
+  .rating__title {
+    font-size: 1.75rem;
+    margin-bottom: 0.35rem;
+  }
+  .rating__description {
+    line-height: 1.5;
+    font-size: 0.9rem;
+  }
+  .rating .rating-form__label {
+    position: relative;
+    height: 1.4rem;
+    width: 1.4rem;
+    padding: 1.4rem;
+  }
+  .thanks {
+    width: 320px;
+    padding: 1rem 1.5rem;
+  }
+  .thanks__logo {
+    margin: 1.75rem auto;
+    width: 30%;
+  }
+  .thanks__title {
+    font-size: 1.75rem;
+    margin-bottom: 0.35rem;
+  }
+  .thanks__description {
+    font-size: 0.9rem;
+    line-height: 1.5;
+  }
+}/*# sourceMappingURL=mobile.css.map */

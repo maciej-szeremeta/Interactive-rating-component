@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="./images/favicon-32x32.png"
+    />
+    <link rel="stylesheet" href="./style/reset.css" />
+    <link rel="stylesheet" href="./style/variables.css" />
+    <link rel="stylesheet" href="./style/desktop.css" />
+    <link rel="stylesheet" href="./style/mobile.css" />
+    <title>Frontend Mentor | Interactive component</title>
+  </head>
+  <body class="page">
+    <!-- Rating state start -->
+    <main class="rating">
+      <div class="rating__logo">
+        <img
+          class="rating__icon"
+          src="./images/icon-star.svg"
+          alt="orange star"
+        />
+      </div>
+      <h1 class="rating__title">How did we do?</h1>
+      <p class="rating__description">
+        Please let us know how we did with your support request. All feedback is
+        appreciated to help us improve our offering!
+      </p>
+      <form class="rating-form" action="/thank-you.html" method="GET">
+        <div class="rating-form__checkboxes">
+          <label class="rating-form__label" for="1">
+            <input
+              type="checkbox"
+              id="1"
+              name="rating"
+              value="1"
+              aria-label="one"
+              class="rating-form__checkbox"
+              tabindex="0"
+            />
+            <span class="rating-form__text">1</span>
+          </label>
+          <label class="rating-form__label" for="2">
+            <input
+              type="checkbox"
+              id="2"
+              name="rating"
+              value="2"
+              aria-label="two"
+              class="rating-form__checkbox"
+              tabindex="0"
+            />
+            <span class="rating-form__text">2</span>
+          </label>
+          <label class="rating-form__label" for="3">
+            <input
+              type="checkbox"
+              id="3"
+              name="rating"
+              value="3"
+              aria-label="three"
+              class="rating-form__checkbox"
+              tabindex="0"
+            />
+            <span class="rating-form__text">3</span>
+          </label>
+          <label class="rating-form__label" for="4">
+            <input
+              type="checkbox"
+              id="4"
+              name="rating"
+              value="4"
+              aria-label="four"
+              class="rating-form__checkbox"
+              tabindex="0"
+            />
+            <span class="rating-form__text">4</span>
+          </label>
+          <label class="rating-form__label" for="5">
+            <input
+              type="checkbox"
+              id="5"
+              name="rating"
+              value="5"
+              aria-label="five"
+              class="rating-form__checkbox"
+              tabindex="0"
+            />
+            <span class="rating-form__text">5</span>
+          </label>
+        </div>
+        <button type="submit" class="button button-submit">Submit</button>
+      </form>
+    </main>
+    <!-- Rating state end -->
+    <script src="./scripts/main.js" />
+  </body>
+</html>
