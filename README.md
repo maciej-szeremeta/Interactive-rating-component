@@ -24,15 +24,15 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 ### 🖼️ Screenshot
 
 <p align="center">
-<img src='screenshots/desktop.png' alt='desktop index' title='desktop index' style='height:200px'>
-<img src='screenshots/desktop-hover.png' alt='desktop index' title='desktop index' style='height:200px'>
+<img src='screenshots/desktop.png' alt='desktop index' title='desktop index' style='height:300px'>
+<img src='screenshots/desktop-hover.png' alt='desktop hover index' title='desktop hover index' style='height:300px'>
 </p>
 <p align="center">
-<img src='screenshots/desktop2.png' alt='desktop index' title='desktop index' style='height:200px'>
+<img src='screenshots/desktop2.png' alt='thank you page' title='thank you page' style='height:300px'>
 </p>
 <p align="center">
-<img src='screenshots/mobile.png' alt='desktop index' title='desktop index' style='height:200px'>
-<img src='screenshots/mobile2.png' alt='desktop index' title='desktop index' style='height:200px'>
+<img src='screenshots/mobile.png' alt='mobile index' title='mobile index' style='height:300px'>
+<img src='screenshots/mobile2.png' alt='mobile than you' title='mobile tahnk you' style='height:300px'>
 </p>
 
 ### Links
