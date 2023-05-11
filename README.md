@@ -8,7 +8,7 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
   - [Table of contents](#table-of-contents)
   - [Overview](#overview)
     - [🖼️ Screenshot](#️-screenshot)
-    - [Links](#links)
+    - [🪢 Links](#-links)
   - [My process](#my-process)
     - [Built with](#built-with)
     - [Continued development](#continued-development)
@@ -35,10 +35,10 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 <img src='screenshots/mobile2.png' alt='mobile than you' title='mobile tahnk you' style='height:300px'>
 </p>
 
-### Links
+### 🪢 Links
 
-- Solution URL: [GitHub](https://github.com/maciej-szeremeta/3-column-preview-card-component)
-- Live Site URL: [GitHub Page](https://maciej-szeremeta.github.io/3-column-preview-card-component)
+- Solution URL: [GitHub](https://github.com/maciej-szeremeta/Interactive-rating-component)
+- Live Site URL: [GitHub Page](https://maciej-szeremeta.github.io/Interactive-rating-component)
 
 ## My process
 
